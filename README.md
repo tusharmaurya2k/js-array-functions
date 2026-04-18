@@ -24,10 +24,6 @@ This project demonstrates the use of important JavaScript array methods such as 
 3. Open Developer Console (F12)
 4. Click buttons to see outputs
 
-## 🌐 Live Demo
-
-(After deployment, paste your GitHub Pages link here)
-
 ## 📷 Output
 
 All outputs are displayed in the browser console.
